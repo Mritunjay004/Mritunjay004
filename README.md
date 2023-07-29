@@ -46,7 +46,7 @@ I'm always excited to connect with like-minded developers, tech enthusiasts, and
 
 - Email: mritunjaygupta004@gmail.com
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mritunjay-gupta)
+- LinkedIn: [Checkout my Profile](https://www.linkedin.com/in/mritunjay-gupta)
 
 ## 🎉 Let's Build Something Awesome Together!
 
