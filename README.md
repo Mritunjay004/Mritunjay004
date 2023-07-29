@@ -1,6 +1,6 @@
 # Awesome JavaScript Developer
 
-[![Profile Banner](https://your-image-url-here.com)](https://github.com/Mritunjay004)
+[![Profile Banner](https://lh3.googleusercontent.com/a-/AOh14Gh3bNeZRvbCPEK9x6bk5Kabg5a6K9muVGo7BWnPsA=s96-c)](https://github.com/Mritunjay004)
 
 Hello, fellow developers! 👋 Welcome to my GitHub profile!
 
