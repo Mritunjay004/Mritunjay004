@@ -1,4 +1,4 @@
-# Awesome JavaScript Developer
+# Mritunjay Here!!!
 
 [![Profile Banner](https://lh3.googleusercontent.com/a-/AOh14Gh3bNeZRvbCPEK9x6bk5Kabg5a6K9muVGo7BWnPsA=s96-c)](https://github.com/Mritunjay004)
 
@@ -46,7 +46,7 @@ I'm always excited to connect with like-minded developers, tech enthusiasts, and
 
 - Email: mritunjaygupta004@gmail.com
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-username](https://linkedin.com/in/mritunjay-gupta))
+- LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/mritunjay-gupta)](https://www.linkedin.com/in/your-username)
 
 ## 🎉 Let's Build Something Awesome Together!
 
