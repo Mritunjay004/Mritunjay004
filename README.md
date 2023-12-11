@@ -24,7 +24,7 @@ Continuous learning is vital in the ever-evolving world of JavaScript. Currently
 
 - **TypeScript**: Embracing TypeScript to add static typing and increase code reliability.
 
-- **Web Assembly (Wasm)**: Delving into the world of Wasm to build high-performance, low-level applications in the browser.
+- **Flutter**: Delving into the world of Flutter to build high-performance applications anywhere.
 
 ## 🔧 Tools & Technologies
 
