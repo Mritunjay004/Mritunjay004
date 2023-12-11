@@ -24,7 +24,7 @@ Continuous learning is vital in the ever-evolving world of JavaScript. Currently
 
 - **TypeScript**: Embracing TypeScript to add static typing and increase code reliability.
 
-- **Flutter**: Delving into the world of Flutter to build high-performance applications anywhere.
+- **Flutter**: Delving into the world of Flutter to build high-performance applications on any platform.
 
 ## 🔧 Tools & Technologies
 
